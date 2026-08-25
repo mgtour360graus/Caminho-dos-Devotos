@@ -1,0 +1,21 @@
+#: locale=pt
+
+## Media
+
+### Audio
+audiores_28F3C9E6_39CD_ACF6_41C1_7BF68A40C850.url = media/audio_2895EFF6_39CE_64D6_41C2_727721AA11FE_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_2805375A_39C2_65DE_41BE_0DA740210B14.label = Caminhos do devoto 2
+panorama_2864E5EE_39C2_64F6_41C1_EA0B0E6A71F4.label = Caminhos do devoto 3
+panorama_35B17A65_39C2_AFEA_41C0_BA61442CBBDC.label = caminhos do devoto 1
+
+## Tour
+
+### Description
+tour.description = Caminho dos Devotos
+
+### Title
+tour.name = Caminho dos Devotos
