@@ -12,6 +12,12 @@ panorama_2805375A_39C2_65DE_41BE_0DA740210B14.label = Caminhos do devoto 2
 panorama_2864E5EE_39C2_64F6_41C1_EA0B0E6A71F4.label = Caminhos do devoto 3
 panorama_35B17A65_39C2_AFEA_41C0_BA61442CBBDC.label = caminhos do devoto 1
 
+## Skin
+
+### Image
+Image_2EA59958_3A7D_ADDA_41A2_B99EC4CAD76E_mobile.url = skin/Image_2EA59958_3A7D_ADDA_41A2_B99EC4CAD76E_mobile_pt.png
+Image_2EA59958_3A7D_ADDA_41A2_B99EC4CAD76E.url = skin/Image_2EA59958_3A7D_ADDA_41A2_B99EC4CAD76E_pt.png
+
 ## Tour
 
 ### Description
